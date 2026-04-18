@@ -12,12 +12,12 @@ My main work right now is how to keep tissue parts alive outside of the body, ke
   
 
 There are many things which accompany this goal. 
-How can we produce any metabolite (cheaply) using nature? 
-Using high-throughput sequencing to figure out necessary cues for certain developments
-  Making protein-sequencing high-throughput 
-  Making current technology cheaper
-information visualization (how to visualize high dimensional data without reduction of knowledge) 
-looking at biology from a data-driven perspective
+- How can we produce any metabolite (cheaply) using nature?
+- Using high-throughput sequencing to figure out necessary cues for certain developments
+    Making protein-sequencing high-throughput
+    Making current technology cheaper
+- information visualization (how to visualize high dimensional data without reduction of knowledge)
+- looking at biology from a data-driven perspective
 
 
 My thesis is that ultimatively carbon won't be replaced by silicon, but rather that silicon is just a mere integration of carbon. 
@@ -45,6 +45,7 @@ Completely out of bounds:
 - Moving humanity closer to manifacturing (making things
 - "Art" [how to define?] 
 - Literature (biographies, "classics", poems) 
+- Engulfing yourself in life (Faust-esque)
 
 [more interests and depth to be added]
 
