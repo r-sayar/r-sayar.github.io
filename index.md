@@ -26,7 +26,7 @@ My thesis is that ultimatively carbon won't be replaced by silicon, but rather t
 
 This is my life's work and the only thing where I am aiming to push the frontier with all it takes. But there are other things which I    enjoy   in life. 
 
-For an unordered list: strategy (in sports, boxing, soccer, ..), information flow (e.g., how data goes from the bottom-layer to the top, low-level to high-level thinking/data), information visualization (again), 
+For an unordered list: strategy (in sports, boxing, soccer, ..), information flow (e.g., how data goes from the bottom-layer to the top, low-level to high-level thinking/data), information visualization (again), when do things end, 
 
 how we will work in this new era. 
   batch vs parallel work 
@@ -36,7 +36,7 @@ how to structure your own work-time (days, weeks, months)
   meetings, events: how evil are they? 
 
 
-What I value: Integrity, Honesty (not misconstruing the truth for one's narrative), Creativity, Nonnormativity
+What I value: Integrity, Honesty (not misconstruing the truth for one's narrative), Creativity, Nonnormativity, Openness, asking for help and helping others, mixing sternness/intensity [need better definition] & being chill & relax]
 
 
 Completely out of bounds: 
