@@ -1,3 +1,6 @@
+sorry for the ai generated form, i do think it has value currently, so I'm leaving it on here, but want to come keep to create a v1 editing out AI/Linkedin phrases
+
+
 # Dialogue form
 
 There is a form of writing almost entirely abandoned by contemporary intellectual culture — dialogue: philosophy, argument, and ideas written not as a single-author essay but as a conversation between two or more voices. Plato did it. Hume did it. Galileo did it. Berkeley did it. Cicero did it. Then, roughly speaking, it stopped.
