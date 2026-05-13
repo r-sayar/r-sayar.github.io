@@ -1,4 +1,3 @@
-my blog.
+thoughts & works in written form
 
-
-if you disagree with certain things or want to improve them write open up an issue or create a pull-request and I will include them 
+If you disagree with certain things or want to improve them write open up an issue or create a pull-request and I will include them 
