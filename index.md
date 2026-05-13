@@ -1,5 +1,5 @@
 ---
-title: Welcome to my thoughts & works
+title: My thoughts and works
 list_title: "Personal Interests (meta)"
 ---
 
