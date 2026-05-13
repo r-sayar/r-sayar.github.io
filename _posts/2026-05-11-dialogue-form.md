@@ -1,3 +1,9 @@
+---
+title: "Dialogue form"
+date: 2026-05-11
+categories: [drafts]
+---
+
 sorry for the ai generated form, i do think it has value currently, so I'm leaving it on here, but want to come keep to create a v1 editing out AI/Linkedin phrases
 
 

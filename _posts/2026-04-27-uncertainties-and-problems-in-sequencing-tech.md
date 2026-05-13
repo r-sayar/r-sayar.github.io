@@ -1,3 +1,9 @@
+---
+title: "Uncertainties and problems in sequencing tech"
+date: 2026-04-27
+categories: [bioml]
+---
+
 8 Uncertainties: 
 - What proteins interact with the environment?
 - What is being emitted by the cell?

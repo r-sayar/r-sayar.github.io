@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my thoughts & works
+list_title: "Personal Interests (meta)"
 ---
 
 
@@ -49,6 +50,43 @@ Completely out of bounds:
 
 [more interests and depth to be added]
 
+---
 
+## Complex Biology
 
+{% assign bioml_posts = site.posts | where_exp: "post", "post.categories contains 'bioml'" %}
+{% if bioml_posts.size > 0 %}
+{% for post in bioml_posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%b %-d, %Y" }}
+{% endfor %}
+{% else %}
+*Posts coming soon.*
+{% endif %}
 
+[→ All Complex Biology posts]({{ "/complex-biology" | relative_url }})
+
+## Corperial
+
+{% assign corp_posts = site.posts | where_exp: "post", "post.categories contains 'corporeal-technologies'" %}
+{% if corp_posts.size > 0 %}
+{% for post in corp_posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%b %-d, %Y" }}
+{% endfor %}
+{% else %}
+*Posts coming soon.*
+{% endif %}
+
+[→ All Corporeal posts]({{ "/corperial-technologies" | relative_url }})
+
+## Drafts
+
+{% assign draft_posts = site.posts | where_exp: "post", "post.categories contains 'drafts'" %}
+{% if draft_posts.size > 0 %}
+{% for post in draft_posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%b %-d, %Y" }}
+{% endfor %}
+{% else %}
+*Nothing here yet.*
+{% endif %}
+
+[→ All Drafts]({{ "/drafts" | relative_url }})
