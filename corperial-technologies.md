@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Corperial
+title: Corperial Tech
 ---
 
 Technologies of the body — tissue engineering, ex vivo systems, keeping biology alive outside its native context, and closing the gap between in vitro and in vivo.

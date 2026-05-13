@@ -1,6 +1,6 @@
 theme: minima
 
 header_pages:
-  - complex-biology.md
   - corperial-technologies.md
+  - complex-biology.md
   - drafts.md
